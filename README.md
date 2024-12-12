@@ -1,6 +1,6 @@
-# HALF_ADDER_SUBTRACTOR
-
-Implementation-of-Half-Adder-and-Half Subtractor-circuit
+ ### NAME : LAKHMEN PRASHANTH R
+ ### REG NO :  24007066
+ ### EXPERIMENT :  HALF__ADDER__SUBTRACTOR 
 
 **AIM:**
 
@@ -64,7 +64,7 @@ Figure -02 HALF Subtractor
 
 /* Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
 
-Developed by:lakshmen prashanth R RegisterNumber:24007066*/
+
 
 ![EXP3](https://github.com/user-attachments/assets/1b958c20-1fce-4bf2-8df0-3ac51484b5f2)
 
