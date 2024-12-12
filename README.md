@@ -77,3 +77,4 @@ Developed by:lakshmen prashanth R RegisterNumber:24007066*/
 
 
 **Result:**
+Half adder and half subtractor circuit and verify its truth table in quartus  using verilog programming is verified
