@@ -73,7 +73,8 @@ Figure -02 HALF Subtractor
 
 
 **Output/TIMING Waveform:**
-![image](https://github.com/user-attachments/assets/3cc868cd-2a47-40a3-becb-209ea73f174b)
+![image](https://github.com/user-attachments/assets/1aa63648-d0e1-491c-bdd4-8ec94c3290ab)
+
 
 
 **Result:**
