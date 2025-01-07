@@ -2,7 +2,6 @@
 ### Name : lakshmen prashanth R
 ### Experiment 3: IMPLEMENTATION OF HALF ADDER SUBTRACTOR
 
-Implementation-of-Half-Adder-and-Half Subtractor-circuit
 
 **AIM:**
 
