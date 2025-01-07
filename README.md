@@ -1,6 +1,6 @@
 ### Register number : 24007066
 ### Name : lakshmen prashanth R
-### Experiment 3: IMPLEMENTATION OF HALF ADDER SUBTRACTOR
+### Experiment 3: IMPLEMENTATION OF HALF ADDER AND SUBTRACTOR.
 
 
 **AIM:**
@@ -68,9 +68,13 @@ Figure -02 HALF Subtractor
 
 **Output/TIMING Waveform**:
 
-![Screenshot 2025-01-07 124916](https://github.com/user-attachments/assets/50a14612-07e8-49e3-a031-50474370e8be)
+![Screenshot 2025-01-07 135639](https://github.com/user-attachments/assets/4c6db1ac-4307-430f-b6d1-cee874709c38)
 
-![Screenshot 2025-01-07 125054](https://github.com/user-attachments/assets/c3b1ef93-83fd-41a4-8eed-71ec45382a45)
+
+
+![Screenshot 2025-01-07 135559](https://github.com/user-attachments/assets/e5c15fe6-53f9-4cf1-8137-9fea5d6a702b)
+
+
 
 **Result**:
 
